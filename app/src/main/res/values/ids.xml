@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_login" type="id" />
+    <item name="link_signup" type="id"/>
+    <item name="textInputLayout" type="id"/>
+    <item name="textInputLayout2" type="id"/>
+    <item name="imageView" type="id"/>
+    <item name="toolbar" type="id"></item>
+
+<!--sqlite-->
+    <item name="textView1" type="id"></item>
+    <item name="editText1" type="id"></item>
+    <item name="textView2" type="id"></item>
+    <item name="editText2" type="id"></item>
+    <item name="textView3" type="id"></item>
+    <item name="editText3" type="id"></item>
+    <item name="textView4" type="id"></item>
+    <item name="editText4" type="id"></item>
+    <item name="textView5" type="id"></item>
+    <item name="editText5" type="id"></item>
+    <item name="button1" type="id"></item>
+    <item name="TextView03" type="id"></item>
+    <item name="TextView04" type="id"></item>
+    <item name="TextView02" type="id"></item>
+    <item name="TextView01" type="id"></item>
+    <item name="TextView05" type="id"></item>
+    <item name="button2" type="id"></item>
+
+    <!--dashboard-->
+    <item name="txtdashboard" type="id"></item>
+    <item name="img_icon" type="id"></item>
+    <item name="message" type="id"></item>
+    <item name="phoneAuth" type="id"></item>
+    <item name="phoneText" type="id"></item>
+    <item name="sendButton" type="id"></item>
+    <item name="ccp" type="id"></item>
+    <item name="listView1" type="id"></item>
+    <item name="txt_judul" type="id"></item>
+    <item name="txt_harga" type="id"></item>
+    <item name="rate" type="id"></item>
+    <item name="submit" type="id"></item>
+    <item name="penilaian" type="id"></item>
+</resources>
